@@ -18,17 +18,20 @@
 		</section>
 
 		<section>
-			<h2 class="mb-2 text-lg font-semibold text-gray-900">2. 保存場所</h2>
+			<h2 class="mb-2 text-lg font-semibold text-gray-900">2. 保存場所と外部サービス</h2>
 			<p>
-				データは利用者のブラウザの localStorage
-				に保存されます。現時点では、運営者のサーバーへ送信・保存する仕組みはありません。
+				補充メモの入力データは、利用者のブラウザの localStorage に保存されます。
+				また、利用状況の把握と改善のため、アクセス解析ツール Microsoft Clarity
+				を利用する場合があります。
 			</p>
 		</section>
 
 		<section>
 			<h2 class="mb-2 text-lg font-semibold text-gray-900">3. 注意事項</h2>
 			<p>
-				ブラウザのデータ削除、端末変更、シークレットモードの利用などにより、保存されたデータが失われる場合があります。
+				ブラウザのデータ削除、端末変更、シークレットモードの利用などにより、localStorage
+				に保存されたデータが失われる場合があります。
+				また、アクセス解析ツールにより、閲覧や操作に関する情報が取得される場合があります。
 			</p>
 		</section>
 
